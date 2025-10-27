@@ -33,8 +33,7 @@ relatorio/
 Breve descrição das pastas:
 - `codigos/`: scripts em R responsáveis pelas análises e geração de figuras.
 - `dados/`: arquivos de dados brutos utilizados nas análises.
-- `graficos/`: resultados gráficos exportados pelos scripts. 
-- `imagens/`: imagens destinadas a ilustrar o repositório.
+- `graficos/`: resultados gráficos exportados pelos scripts.
 - `relatorio/`: documento final com a apresentação dos resultados e interpretações.
 
 ## Como executar
